@@ -1,0 +1,4 @@
+dom-walk min-document 
+dom-walk min-document observable 
+
+dom-walk global min-document 

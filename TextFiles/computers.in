@@ -1,0 +1,4 @@
+global observable
+global
+graphics dom-walk global min-document observable
+graphics observable
